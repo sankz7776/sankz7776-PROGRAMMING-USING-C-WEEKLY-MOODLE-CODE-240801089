@@ -1,2 +1,0 @@
-# sankz7776-PROGRAMMING-USING-C-WEEKLY-MOODLE-CODE-240801089
-Weekly Moodle program and output
